@@ -6,5 +6,5 @@ Technologies used: JavaScript, HTML, CSS, D3.js
 
 To see the live file, use the below link
 ```
-https://ramneekc.github.io/javascript-challenge/
+https://ramneekc.github.io/UFO-sightings/
 ```
